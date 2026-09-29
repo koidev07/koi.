@@ -1,21 +1,44 @@
-<div align="center">
-<h1> Hi, I'm Sugger <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
-</div>
+# Hey, I'm koi. 👋
 
-<div class="info">
-<img width="25" height="25" src="https://emoji.gg/assets/emoji/9010_sign_male.png"> Male <br>
-<img width="25" height="25" src="https://emoji.gg/assets/emoji/6414_Birthday_Cake_Monkey.png"> December 20 <br>
-<img width="25" height="25" src="https://emoji.gg/assets/emoji/3882-zodiacsagittarius.gif"> Saggitarius <br>
-<img width="30" height="20" src="https://cdn.britannica.com/73/3473-004-6E573BFA/Flag-Philippines.jpg"> Philippines
-</div>
+I'm a developer from the Philippines focused on **Minecraft Bedrock development** and **modern web development**.
 
-<h2 align="center">Github Stats</h2>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sugger25e&show_icons=true&theme=tokyonight&border_radius=12&hide=issues">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sugger25e&theme=tokyonight">
-</div> 
+I enjoy building projects that are both functional and polished — from Minecraft addons and custom UI systems to responsive websites and developer tools.
 
+## What I work with
 
-<h2>Languages</h2>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3.org/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typrscript" width="40" height="40"/> </a> 
+- Minecraft Bedrock Add-ons
+- Script API
+- JSON UI
+- Behavior Packs
+- Resource Packs
+- JavaScript
+- React
+- Vite
+- Tailwind CSS
+- Node.js
+
+## What I build
+
+Most of my work revolves around creating custom systems and experiences for **Minecraft Bedrock**, including gameplay mechanics, interfaces, tools, and addons.
+
+I also work on web projects using modern frontend technologies, focusing on responsive layouts, clean interfaces, and smooth user experiences.
+
+## Portfolio
+
+Check out my work and projects here:
+
+### [koidev.xyz](https://koidev.xyz)
+
+## GitHub
+
+Here you'll find some of my projects, experiments, tools, and other things I'm working on.
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true" alt="GitHub Stats" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://koidev.xyz">Portfolio</a>
+</p>

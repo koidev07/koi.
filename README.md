@@ -29,12 +29,32 @@ Check out my work and projects here:
 
 ### [koidev.xyz](https://koidev.xyz)
 
-## GitHub
-
-Here you'll find some of my projects, experiments, tools, and other things I'm working on.
+## GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=koidev07&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api?username=koidev07&show_icons=true&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=koidev07&show_icons=true&theme=light_github"
+      alt="koi.'s GitHub stats"
+    />
+  </picture>
+</p>
+
+<p align="left">
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=koidev07&langs_count=6&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=koidev07&langs_count=6&theme=light_github"
+      alt="koi.'s top languages"
+    />
+  </picture>
 </p>
 
 ---

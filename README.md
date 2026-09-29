@@ -34,7 +34,7 @@ Check out my work and projects here:
 Here you'll find some of my projects, experiments, tools, and other things I'm working on.
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=koidev07&show_icons=true&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
